@@ -6,6 +6,7 @@ import java.util.Scanner;
 // Comando java para rodar o programa
 // Sempre colocar quando fizer alteração no código
 
+
 public class App {
 
     public static void main(String[] args) {
